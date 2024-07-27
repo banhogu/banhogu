@@ -2,7 +2,8 @@
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Banghogu%20Github&fontColor=ffffff) 
+![github-header-image (2)](https://github.com/user-attachments/assets/2e80de66-2087-4570-acfc-8026d3dd6cba)
+
 
 <br>
 
