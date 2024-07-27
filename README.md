@@ -28,6 +28,7 @@
       <br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
     <div style="text-align: left;"> <a href=https://www.instagram.com/banhogu/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/banhogu/"> </a>
+    <a href=https://www.banghojin.site/> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </a>
       
 </div>  <br> 
     <div style="text-align: left;">  </div> 
@@ -37,5 +38,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banhogu)](https://github.com/anuraghazra/github-readme-stats)
     
-![CH4MD0M's GitHub stats](https://github-readme-stats.vercel.app/api?username=banhogu)
    
