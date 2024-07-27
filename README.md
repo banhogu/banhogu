@@ -7,7 +7,9 @@
 
 <br>
 
-### 안녕하세요 배움을 나누며 함께 전진하는 개발자 방호진입니다. 
+👋 안녕하세요 Frontend Delveloper 방호진입니다.<br><br>
+📝 모르는것은 절대 아는척하지 않고 매번 질문하며 겸손한 자세로 개발에 임하고 있습니다.<br><br>
+🔥 최고의 팀원이 되지 못할지언정 최악의 팀원은 되지 않도록 노력하고 있습니다.<br><br>
 
 <br>
 
@@ -26,9 +28,14 @@
       <br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
     <div style="text-align: left;"> <a href=https://www.instagram.com/banhogu/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/banhogu/"> </a>
-         <a href=https://www.notion.so/11be9d04807c46ed927c68b771fd0a9c> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/11be9d04807c46ed927c68b771fd0a9c"> </a>
-          </div>  <br> 
+      
+</div>  <br> 
     <div style="text-align: left;">  </div> 
     </div><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banghogu)](https://github.com/anuraghazra/github-readme-stats)
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 My Stats </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banhogu)](https://github.com/anuraghazra/github-readme-stats)
+    
+![CH4MD0M's GitHub stats](https://github-readme-stats.vercel.app/api?username=banhogu)
+   
