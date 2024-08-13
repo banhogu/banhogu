@@ -37,5 +37,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 My Stats </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banhogu)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=banhogu&" alt="hyunsunglimm" /></p>
     
    
