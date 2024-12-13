@@ -38,7 +38,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banhogu)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=banhogu&" alt="hyunsunglimm" /></p>
 
 [![banhogu's GitHub stats](https://github-readme-stats.vercel.app/api?username=banhogu)](https://github.com/anuraghazra/github-readme-stats) <br>
    
