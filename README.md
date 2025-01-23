@@ -13,6 +13,25 @@
 
 <br>
 
+## Activities
+
+- **충북대학교 졸업** (2017.03 ~ 2023.08) <br />
+  -  정보통신공학 전공
+
+- **멋쟁이 사자처럼 9기, 10기** (2021.03 ~ 2021.10) <br />
+  - 대학교 연합 웹 개발 IT 동아리, 충북대학교 대표
+
+- **MDN 번역기여** (2024.07 ~ ) <br />
+  - [Link](https://github.com/mdn/translated-content/pulls?q=is%3Apr+involves%3Abanhogu+)
+
+- **블레이버스 MVP 해커톤** (2024.08 ) <br />
+  - 우수상 
+     
+- **디프만 16기 Web Frontend** (2025.01 ~ ) <br />
+  - 디자이너와 개발자가 서비스 기획부터 런칭까지 함께 경험하는 성장추구형 동아리 
+
+<br>
+
    <div style="text-align: left;"> 
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
